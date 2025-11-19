@@ -9,3 +9,4 @@ pymupdf
 langchain_community
 langchain-groq
 sentence-transformers
+langchain-huggingface

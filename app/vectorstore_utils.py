@@ -1,5 +1,7 @@
 from langchain_community.vectorstores import Chroma,FAISS
+# from langchain.embeddings import HuggingFaceEmbeddings
 from langchain.embeddings import HuggingFaceEmbeddings
+
 from typing import List
 
 
