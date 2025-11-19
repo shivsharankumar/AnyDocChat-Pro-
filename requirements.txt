@@ -7,4 +7,5 @@ euriai
 groq
 pymupdf
 langchain_community
+langchain-groq
 sentence-transformers
