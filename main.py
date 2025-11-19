@@ -719,6 +719,9 @@ st.markdown(
 <div class="footer-text">
     🤖 Powered by AI & LangChain | 🏥 Document Intelligence — AnyDocChat Pro
 </div>
+<div class="footer-text">
+## Created By SHIV ($$$)
+</div>
 """,
     unsafe_allow_html=True,
 )

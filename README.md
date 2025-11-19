@@ -69,3 +69,7 @@ The Streamlit UI provides:
 - **No model available**: confirm that the relevant API key is exported or stored in `.env`.
 - **FAISS import errors**: reinstall `faiss-cpu` or ensure your Python version matches the wheel availability.
 - **PDF extraction returns empty text**: fall back to the PyMuPDF-based method noted in `pdf_utils.py` for scanned/complex layouts.
+
+## Live Hosted Site URL :- https://anydocchatpro.streamlit.app/ 
+
+## Created By SHIV ($$$)
